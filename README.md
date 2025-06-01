@@ -1,34 +1,19 @@
-## Library Powered By
-
-This library is powered by [Entity Framework Extensions](https://entityframework-extensions.net/?z=github&y=entityframework-plus)
-
-<a href="https://entityframework-extensions.net/?z=github&y=entityframework-plus">
-<kbd>
-<img src="https://zzzprojects.github.io/images/logo/entityframework-extensions-pub.jpg" alt="Entity Framework Extensions" />
-</kbd>
-</a>
-
----
-
 # What's Find and Replace (FNR)?
 Find and Replace (FNR) is an open source tool to find and replace text in multiple files. It can quickly search through large numbers of files and also find the information using regular expressions specifying the form of what you want, instead of literal text.
 
-## Useful links
+Read more on our [Website](http://findandreplace.io/).
 
-- [Website](http://findandreplace.io/)
-- [Documentation](http://findandreplace.io/overview)
-- [Download](http://findandreplace.io/download)
+[Download](http://findandreplace.io/download)
 
-## Contribute
+## Sponsors
 
-The best way to contribute is by **spreading the word** about the library:
+ZZZ Projects owns and maintains **Find and Replace** as part of our [mission](https://zzzprojects.com/mission) to add value to the .NET community
 
- - Blog it
- - Comment it
- - Star it
- - Share it
- 
-A **HUGE THANKS** for your help.
+Through [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=zzzprojects&utm_medium=findandreplace) and [Dapper Plus](https://dapper-plus.net/?utm_source=zzzprojects&utm_medium=findandreplace), we actively sponsor and help key open-source libraries grow.
+
+[![Entity Framework Extensions](https://raw.githubusercontent.com/zzzprojects/findandreplace/master/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert?utm_source=zzzprojects&utm_medium=findandreplace)
+
+[![Dapper Plus](https://raw.githubusercontent.com/zzzprojects/findandreplace/master/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert?utm_source=zzzprojects&utm_medium=findandreplace)
 
 ## More Projects
 
